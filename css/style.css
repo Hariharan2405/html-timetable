@@ -1,0 +1,30 @@
+table, td, th {
+		border:2px solid skyblue;
+		border-collapse:collapse;
+		padding:10px;
+	}
+.tml { 
+	background-color:blue;
+	}
+.eng { 
+	background-color:yellow;
+	}
+.math { 
+	background-color:violet;
+	}
+.sci { 
+	background-color:gray;
+	}
+.ss { 
+	background-color:orange;
+	}
+.pet { 
+	background-color:green;
+	}
+th { 
+	background-color:black;
+	color:white;
+	}
+section { 
+	text-align: center;
+	}
